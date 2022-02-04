@@ -1,0 +1,17 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: #00cc00;
+}
+
+.container {
+    text-align: center;
+}
+
+.container a {
+    text-decoration: underline;
+    color: #00cc00;
+    font-size: 2em;
+}
+

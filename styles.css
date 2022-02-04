@@ -1,0 +1,98 @@
+@font-face {
+    font-family: Ninja-font;
+    src: url('font/fighting-spirit-turbo.regular.ttf');
+}
+
+html, body {
+    background-color: black;
+    font-family: monospace;
+    font-size: 1em;
+}
+
+.navbar {
+    background-color: #004400;
+}
+
+.navbar-brand h1 {
+    font-size: 1.5em;
+    color: white;
+}
+
+.navbar-brand img {
+    width: 3em;
+    height: 3em;
+}
+
+.navbar-item {
+    padding: 1em;
+}
+
+.navbar-link {
+    color: #00cc00;
+    text-decoration: underline;
+}
+
+.navbar-link:hover {
+    text-decoration: none;
+}
+
+.welcome {
+    color: #00ff00;
+}
+
+.welcome h1 {
+    font-family: Ninja-font;
+    font-size: 4rem;
+}
+
+.welcome p {
+    font-size: 2em;
+}
+
+.page-background {
+    color: #00cc00;
+}
+
+footer h6 {
+    color: white;
+}
+
+footer ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer li {
+    padding: 0.2em;
+}
+
+footer a {
+    color: #00cc00;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+
+.copyright {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.page-header {
+    color: white;
+    margin-top: 20px;
+}
+
+.about-container {
+    margin-top: 20px;
+    color: white;
+}
+
+.about-container h1 {
+    color: #00cc00;
+}
+
+.about-container p {
+}
